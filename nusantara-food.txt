@@ -1,0 +1,2 @@
+- membuat homepage
+- membuat halaman kategori wilayah
