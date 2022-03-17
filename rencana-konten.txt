@@ -1,0 +1,2 @@
+- Penambahan menu reset dimulai dari wilayah sumatra hingga papua (hidangan utama)
+- Membuat menu cemilan
